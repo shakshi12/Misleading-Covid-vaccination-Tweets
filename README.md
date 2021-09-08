@@ -9,3 +9,6 @@ Misleading and Non-Misleading tweets. Label the tweets using XLNet pre-trained m
 2. Predictive Analysis:<br>
   a) Traditional Classifiers - SVM, XGBoost, RF, Logistic Regression<br>
   b) AI Explainability: SHAP for feature importance.
+  
+  Note: This dataset is released in accordance with Twitter's TOS, which allows sharing of tweet IDs and are intended for non-commercial research.
+
