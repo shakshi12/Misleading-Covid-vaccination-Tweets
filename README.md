@@ -10,5 +10,5 @@ Misleading and Non-Misleading tweets. Label the tweets using XLNet pre-trained m
   a) Traditional Classifiers - SVM, XGBoost, RF, Logistic Regression<br>
   b) AI Explainability: SHAP for feature importance.
   
-  Note: This dataset is released in accordance with Twitter's TOS, which allows sharing of tweet IDs and are intended for non-commercial research.
+  Note: This dataset is released in accordance with Twitter's TOS, which allows sharing of tweet IDs and are intended for non-commercial research (https://twittercommunity.com/t/policy-update-clarification-research-use-cases/87566). Thus, by downloading this dataset, you agree that you will not use it for commercial purposes.
 
